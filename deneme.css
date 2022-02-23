@@ -1,0 +1,28 @@
+body{
+    background-color:whitesmoke ;
+}
+.text-color {
+    color:red;
+}
+.fs-small{
+    font-size: 15em;
+}
+h1{
+    font-family: 'Goblin One', el yazısı;
+    font-size: 7em; 
+    color:darkgray
+}
+a{
+    font-family: 'Goblin One', el yazısı;
+    color:red
+}
+p{
+    color: black;
+}
+.sol{
+    float: left;padding: 0 30px;
+
+}
+.sağ{
+    float: right;padding: 0 30px;
+}
